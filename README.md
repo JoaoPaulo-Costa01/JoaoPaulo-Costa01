@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o João Paulo! 👋</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
-
+<p> Atualmente, meu foco é o ecossistema .NET e o desenvolvimento de aplicações utilizando C#, ASP.NET Core, .NET e Entity Framework. Tenho experiência prática na criação de APIs e utilizo Docker para garantir que meus projetos sejam portáteis e fáceis de configurar em qualquer ambiente. </p>
 <br>
 
 <div align="center">
@@ -13,14 +13,12 @@
 </div>
 
 <br>
-
 <div align="center">
   <h3 align="center">Estatísticas do GitHub</h3>
   <a href="https://github.com/JoaoPaulo-Costa01">
   <img height="180" src="https://meu-status.vercel.app/api?username=JoaoPaulo-Costa01&show_icons=true&theme=midnight-purple" alt="Estatísticas do GitHub"/>
   <img height="180" src="https://meu-status.vercel.app/api/top-langs/?username=JoaoPaulo-Costa01&layout=compact&langs_count=7&theme=midnight-purple&hide=typescript" alt="Linguagens Mais Usadas"/>
 </div>
-
 <br>
 
 <h3 align="center">📫 Vamos nos conectar?</h3>
