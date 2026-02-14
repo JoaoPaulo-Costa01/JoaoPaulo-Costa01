@@ -1,6 +1,7 @@
 <h1 align="center">Olá, eu sou o João Paulo! 👋</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
-<p> Atualmente, meu foco é o ecossistema .NET e o desenvolvimento de aplicações utilizando C#, ASP.NET Core, .NET e Entity Framework. Tenho experiência prática na criação de APIs e utilizo Docker para garantir que meus projetos sejam portáteis e fáceis de configurar em qualquer ambiente. </p>
+<p> Desenvolvedor de Software com conhecimento sólido no ambiente .NET com foco na linguagem C# para desenvolvimento Backend. Possuo experiência no desenvolvimento de aplicações web utilizando ASP.NET Core (Web API) e na manipulação de banco de dados SQL Server via Entity Framework. </p>
+<p>Aplico boas práticas de engenharia de software como Orientação a Objetos (POO), Arquitetura REST e Testes Unitários (xUnit), utilizando Docker para containerização e Git/GitHub para versionamento de código. Possuo inglês nível (A1).</p>
 <br>
 
 <div align="center">
