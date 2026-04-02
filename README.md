@@ -1,8 +1,13 @@
 <h1 align="center">Olá, eu sou o João Paulo! 👋</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
-<p> Desenvolvedor de Software com conhecimento sólido no ambiente .NET com foco na linguagem C# para desenvolvimento Backend. Possuo experiência no desenvolvimento de aplicações web utilizando ASP.NET Core (Web API) e na manipulação de banco de dados SQL Server via Entity Framework. </p>
-<p>Aplico boas práticas de engenharia de software como Orientação a Objetos (POO), Arquitetura REST e Testes Unitários (xUnit), utilizando Docker para containerização e Git/GitHub para versionamento de código. Possuo inglês nível (A1).</p>
-<br>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Backend .NET</h3>
+
+### 🚀 O que eu faço e estudo
+* **Desenvolvimento Web:** Construção de aplicações robustas com ASP.NET Core (Web API).
+* **Banco de Dados:** Manipulação de SQL Server via Entity Framework.
+* **Segurança:** Gestão de usuários com ASP.NET Core Identity e Autenticação/Autorização utilizando JWT.
+* **Arquitetura e Boas Práticas:** Foco em qualidade de software aplicando Clean Code, Repository Pattern, Programação Orientada a Objetos (POO), Arquitetura REST e Testes Unitários (xUnit).
+* **DevOps e Versionamento:** Containerização de aplicações com Docker e controle de versão com Git/GitHub.
+* **Idiomas:** Inglês intermediário (B1).
 
 <div align="center">
   <h3 align="center">Minhas Stacks</h3>
