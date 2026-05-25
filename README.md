@@ -24,7 +24,7 @@
   <h3 align="center">Estatísticas do GitHub</h3>
   <a href="https://github.com/JoaoPaulo-Costa01">
   <img height="180" src="https://meu-status.vercel.app/api?username=JoaoPaulo-Costa01&show_icons=true&theme=midnight-purple" alt="Estatísticas do GitHub"/>
-  <img height="180" src="https://meu-status.vercel.app/api/top-langs/?username=JoaoPaulo-Costa01&layout=compact&langs_count=7&theme=midnight-purple&hide=typescript" alt="Linguagens Mais Usadas"/>
+  <img height="180" src="https://meu-status.vercel.app/api/top-langs/?username=JoaoPaulo-Costa01&layout=compact&langs_count=7&theme=midnight-purple&hide=scss&exclude_repo=zap-pharm-flow" alt="Linguagens Mais Usadas"/>
 </div>
 <br>
 
